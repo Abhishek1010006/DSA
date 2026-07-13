@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**24 problems solved** · 17 Easy · 6 Medium · 1 Hard
+**34 problems solved** · 23 Easy · 10 Medium · 1 Hard
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟥
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **24** C++
+**Languages used:** **34** C++
 
 <br>
 
@@ -42,19 +42,26 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | # | Problem | Difficulty | Language | Solution |
 |---|---------|:----------:|:--------:|:--------:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`two-sum.cpp`](./1-two-sum/two-sum.cpp) |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`reverse-integer.cpp`](./7-reverse-integer/reverse-integer.cpp) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`palindrome-number.cpp`](./9-palindrome-number/palindrome-number.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`remove-duplicates-from-sorted-array.cpp`](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`remove-element.cpp`](./27-remove-element/remove-element.cpp) |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`find-first-and-last-position-of-element-in-sorted-array.cpp`](./34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`powx-n.cpp`](./50-powx-n/powx-n.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`plus-one.cpp`](./66-plus-one/plus-one.cpp) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`sqrtx.cpp`](./69-sqrtx/sqrtx.cpp) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`sort-colors.cpp`](./75-sort-colors/sort-colors.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`merge-sorted-array.cpp`](./88-merge-sorted-array/merge-sorted-array.cpp) |
+| 136 | [Single Number](https://leetcode.com/problems/single-number) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`single-number.cpp`](./136-single-number/single-number.cpp) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`factorial-trailing-zeroes.cpp`](./172-factorial-trailing-zeroes/factorial-trailing-zeroes.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`rotate-array.cpp`](./189-rotate-array/rotate-array.cpp) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`power-of-two.cpp`](./231-power-of-two/power-of-two.cpp) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`move-zeroes.cpp`](./283-move-zeroes/move-zeroes.cpp) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`intersection-of-two-arrays.cpp`](./349-intersection-of-two-arrays/intersection-of-two-arrays.cpp) |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | ![](https://img.shields.io/badge/-Hard-red) | C++ | [`split-array-largest-sum.cpp`](./410-split-array-largest-sum/split-array-largest-sum.cpp) |
+| 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`find-all-duplicates-in-an-array.cpp`](./442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`max-consecutive-ones.cpp`](./485-max-consecutive-ones/max-consecutive-ones.cpp) |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-pivot-index.cpp`](./724-find-pivot-index/find-pivot-index.cpp) |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`peak-index-in-a-mountain-array.cpp`](./882-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.cpp) |
 | 1056 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`capacity-to-ship-packages-within-d-days.cpp`](./1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.cpp) |
 | 1319 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`unique-number-of-occurrences.cpp`](./1319-unique-number-of-occurrences/unique-number-of-occurrences.cpp) |
@@ -64,7 +71,10 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 1791 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`richest-customer-wealth.cpp`](./1791-richest-customer-wealth/richest-customer-wealth.cpp) |
 | 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`check-if-array-is-sorted-and-rotated.cpp`](./1878-check-if-array-is-sorted-and-rotated/check-if-array-is-sorted-and-rotated.cpp) |
 | 2058 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`concatenation-of-array.cpp`](./2058-concatenation-of-array/concatenation-of-array.cpp) |
+| 2102 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-the-middle-index-in-array.cpp`](./2102-find-the-middle-index-in-array/find-the-middle-index-in-array.cpp) |
 | 2243 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`check-if-all-as-appears-before-all-bs.cpp`](./2243-check-if-all-as-appears-before-all-bs/check-if-all-as-appears-before-all-bs.cpp) |
+| 2383 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`add-two-integers.cpp`](./2383-add-two-integers/add-two-integers.cpp) |
+| 2714 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`left-and-right-sum-differences.cpp`](./2714-left-and-right-sum-differences/left-and-right-sum-differences.cpp) |
 
 <br>
 
@@ -82,6 +92,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 13 Jul 2026, 07:34 UTC*
+*Last auto-generated: 13 Jul 2026, 08:30 UTC*
 
 </div>
