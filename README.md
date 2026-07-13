@@ -78,20 +78,4 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 <br>
 
-## ⚙️ How this README stays up to date
-
-This repo follows a simple pattern:
-
-1. Each solved problem lives in its own folder: `NNNN-problem-slug/` (this matches LeetHub's auto-sync format, so if you use the [LeetHub](https://github.com/arunbhardwaj/LeetHub-2.0) browser extension, new solves land here automatically).
-2. `scripts/generate_readme.py` walks every folder, reads the problem's `README.md` for its title/difficulty/link, detects the solution file's language from its extension, and rebuilds **this** README plus the badge JSON files in `.github/badges/`.
-3. `.github/workflows/update-readme.yml` runs that script automatically on every push to `main`, commits the regenerated README, and that's it — the counts, table, and progress bar above always match what's actually in the repo.
-
-To trigger a manual refresh: `python scripts/generate_readme.py` from the repo root, then commit.
-
-<br>
-
-<div align="center">
-
-*Last auto-generated: 13 Jul 2026, 08:32 UTC*
-
 </div>
