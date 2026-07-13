@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**34 problems solved** · 23 Easy · 10 Medium · 1 Hard
+**35 problems solved** · 24 Easy · 10 Medium · 1 Hard
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨
 
-**Languages used:** **34** C++
+**Languages used:** **35** C++
 
 <br>
 
@@ -63,6 +63,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`max-consecutive-ones.cpp`](./485-max-consecutive-ones/max-consecutive-ones.cpp) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-pivot-index.cpp`](./724-find-pivot-index/find-pivot-index.cpp) |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`peak-index-in-a-mountain-array.cpp`](./882-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.cpp) |
+| 1031 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`add-to-array-form-of-integer.cpp`](./1031-add-to-array-form-of-integer/add-to-array-form-of-integer.cpp) |
 | 1056 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`capacity-to-ship-packages-within-d-days.cpp`](./1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.cpp) |
 | 1319 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`unique-number-of-occurrences.cpp`](./1319-unique-number-of-occurrences/unique-number-of-occurrences.cpp) |
 | 1421 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-numbers-with-even-number-of-digits.cpp`](./1421-find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.cpp) |
@@ -77,5 +78,21 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 2714 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`left-and-right-sum-differences.cpp`](./2714-left-and-right-sum-differences/left-and-right-sum-differences.cpp) |
 
 <br>
+
+## ⚙️ How this README stays up to date
+
+This repo follows a simple pattern:
+
+1. Each solved problem lives in its own folder: `NNNN-problem-slug/` (this matches LeetHub's auto-sync format, so if you use the [LeetHub](https://github.com/arunbhardwaj/LeetHub-2.0) browser extension, new solves land here automatically).
+2. `scripts/generate_readme.py` walks every folder, reads the problem's `README.md` for its title/difficulty/link, detects the solution file's language from its extension, and rebuilds **this** README plus the badge JSON files in `.github/badges/`.
+3. `.github/workflows/update-readme.yml` runs that script automatically on every push to `main`, commits the regenerated README, and that's it — the counts, table, and progress bar above always match what's actually in the repo.
+
+To trigger a manual refresh: `python scripts/generate_readme.py` from the repo root, then commit.
+
+<br>
+
+<div align="center">
+
+*Last auto-generated: 13 Jul 2026, 20:12 UTC*
 
 </div>
