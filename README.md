@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**35 problems solved** · 24 Easy · 10 Medium · 1 Hard
+**36 problems solved** · 25 Easy · 10 Medium · 1 Hard
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **35** C++
+**Languages used:** **36** C++
 
 <br>
 
@@ -52,6 +52,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`sqrtx.cpp`](./69-sqrtx/sqrtx.cpp) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`sort-colors.cpp`](./75-sort-colors/sort-colors.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`merge-sorted-array.cpp`](./88-merge-sorted-array/merge-sorted-array.cpp) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`valid-palindrome.cpp`](./125-valid-palindrome/valid-palindrome.cpp) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`single-number.cpp`](./136-single-number/single-number.cpp) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`factorial-trailing-zeroes.cpp`](./172-factorial-trailing-zeroes/factorial-trailing-zeroes.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`rotate-array.cpp`](./189-rotate-array/rotate-array.cpp) |
@@ -93,6 +94,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 13 Jul 2026, 20:12 UTC*
+*Last auto-generated: 14 Jul 2026, 13:45 UTC*
 
 </div>
