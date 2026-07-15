@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**36 problems solved** · 25 Easy · 10 Medium · 1 Hard
+**37 problems solved** · 26 Easy · 10 Medium · 1 Hard
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **36** C++
+**Languages used:** **37** C++
 
 <br>
 
@@ -58,6 +58,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`rotate-array.cpp`](./189-rotate-array/rotate-array.cpp) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`power-of-two.cpp`](./231-power-of-two/power-of-two.cpp) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`move-zeroes.cpp`](./283-move-zeroes/move-zeroes.cpp) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`reverse-string.cpp`](./344-reverse-string/reverse-string.cpp) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`intersection-of-two-arrays.cpp`](./349-intersection-of-two-arrays/intersection-of-two-arrays.cpp) |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | ![](https://img.shields.io/badge/-Hard-red) | C++ | [`split-array-largest-sum.cpp`](./410-split-array-largest-sum/split-array-largest-sum.cpp) |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`find-all-duplicates-in-an-array.cpp`](./442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp) |
@@ -94,6 +95,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 14 Jul 2026, 13:48 UTC*
+*Last auto-generated: 15 Jul 2026, 11:15 UTC*
 
 </div>
