@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**37 problems solved** · 26 Easy · 10 Medium · 1 Hard
+**38 problems solved** · 26 Easy · 11 Medium · 1 Hard
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟥
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨
 
-**Languages used:** **37** C++
+**Languages used:** **38** C++
 
 <br>
 
@@ -54,6 +54,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`merge-sorted-array.cpp`](./88-merge-sorted-array/merge-sorted-array.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`valid-palindrome.cpp`](./125-valid-palindrome/valid-palindrome.cpp) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`single-number.cpp`](./136-single-number/single-number.cpp) |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`reverse-words-in-a-string.cpp`](./151-reverse-words-in-a-string/reverse-words-in-a-string.cpp) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`factorial-trailing-zeroes.cpp`](./172-factorial-trailing-zeroes/factorial-trailing-zeroes.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`rotate-array.cpp`](./189-rotate-array/rotate-array.cpp) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`power-of-two.cpp`](./231-power-of-two/power-of-two.cpp) |
@@ -95,6 +96,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 15 Jul 2026, 11:16 UTC*
+*Last auto-generated: 15 Jul 2026, 12:30 UTC*
 
 </div>
