@@ -95,6 +95,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 15 Jul 2026, 11:15 UTC*
+*Last auto-generated: 15 Jul 2026, 11:16 UTC*
 
 </div>
