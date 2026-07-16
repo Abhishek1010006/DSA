@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**40 problems solved** · 28 Easy · 11 Medium · 1 Hard
+**41 problems solved** · 29 Easy · 11 Medium · 1 Hard
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **40** C++
+**Languages used:** **41** C++
 
 <br>
 
@@ -80,6 +80,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 2102 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-the-middle-index-in-array.cpp`](./2102-find-the-middle-index-in-array/find-the-middle-index-in-array.cpp) |
 | 2243 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`check-if-all-as-appears-before-all-bs.cpp`](./2243-check-if-all-as-appears-before-all-bs/check-if-all-as-appears-before-all-bs.cpp) |
 | 2383 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`add-two-integers.cpp`](./2383-add-two-integers/add-two-integers.cpp) |
+| 2427 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`first-letter-to-appear-twice.cpp`](./2427-first-letter-to-appear-twice/first-letter-to-appear-twice.cpp) |
 | 2714 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`left-and-right-sum-differences.cpp`](./2714-left-and-right-sum-differences/left-and-right-sum-differences.cpp) |
 
 <br>
@@ -98,6 +99,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 16 Jul 2026, 12:15 UTC*
+*Last auto-generated: 16 Jul 2026, 12:24 UTC*
 
 </div>
