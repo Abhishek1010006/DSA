@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**39 problems solved** · 27 Easy · 11 Medium · 1 Hard
+**40 problems solved** · 28 Easy · 11 Medium · 1 Hard
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **39** C++
+**Languages used:** **40** C++
 
 <br>
 
@@ -61,6 +61,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`move-zeroes.cpp`](./283-move-zeroes/move-zeroes.cpp) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`reverse-string.cpp`](./344-reverse-string/reverse-string.cpp) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`intersection-of-two-arrays.cpp`](./349-intersection-of-two-arrays/intersection-of-two-arrays.cpp) |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`first-unique-character-in-a-string.cpp`](./387-first-unique-character-in-a-string/first-unique-character-in-a-string.cpp) |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | ![](https://img.shields.io/badge/-Hard-red) | C++ | [`split-array-largest-sum.cpp`](./410-split-array-largest-sum/split-array-largest-sum.cpp) |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`find-all-duplicates-in-an-array.cpp`](./442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`max-consecutive-ones.cpp`](./485-max-consecutive-ones/max-consecutive-ones.cpp) |
@@ -97,6 +98,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 16 Jul 2026, 10:45 UTC*
+*Last auto-generated: 16 Jul 2026, 12:15 UTC*
 
 </div>
