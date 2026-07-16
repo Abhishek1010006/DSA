@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**44 problems solved** · 30 Easy · 13 Medium · 1 Hard
+**45 problems solved** · 30 Easy · 14 Medium · 1 Hard
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **43** C++ · **1** Unknown
+**Languages used:** **44** C++ · **1** Unknown
 
 <br>
 
@@ -64,6 +64,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`first-unique-character-in-a-string.cpp`](./387-first-unique-character-in-a-string/first-unique-character-in-a-string.cpp) |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | ![](https://img.shields.io/badge/-Hard-red) | C++ | [`split-array-largest-sum.cpp`](./410-split-array-largest-sum/split-array-largest-sum.cpp) |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`find-all-duplicates-in-an-array.cpp`](./442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp) |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`max-consecutive-ones.cpp`](./485-max-consecutive-ones/max-consecutive-ones.cpp) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`reverse-words-in-a-string-iii.cpp`](./557-reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.cpp) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`permutation-in-string.cpp`](./567-permutation-in-string/permutation-in-string.cpp) |
@@ -71,7 +72,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`peak-index-in-a-mountain-array.cpp`](./882-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.cpp) |
 | 1031 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`add-to-array-form-of-integer.cpp`](./1031-add-to-array-form-of-integer/add-to-array-form-of-integer.cpp) |
 | 1056 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`capacity-to-ship-packages-within-d-days.cpp`](./1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.cpp) |
-| 1128 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | Unknown | — |
+| 1128 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`remove-all-adjacent-duplicates-in-string.cpp`](./1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.cpp) |
 | 1319 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`unique-number-of-occurrences.cpp`](./1319-unique-number-of-occurrences/unique-number-of-occurrences.cpp) |
 | 1421 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-numbers-with-even-number-of-digits.cpp`](./1421-find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.cpp) |
 | 1603 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`running-sum-of-1d-array.cpp`](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) |
@@ -102,6 +103,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 16 Jul 2026, 22:19 UTC*
+*Last auto-generated: 16 Jul 2026, 22:50 UTC*
 
 </div>
