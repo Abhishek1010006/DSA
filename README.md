@@ -33,7 +33,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **44** C++ · **1** Unknown
+**Languages used:** **45** C++
 
 <br>
 
@@ -64,7 +64,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`first-unique-character-in-a-string.cpp`](./387-first-unique-character-in-a-string/first-unique-character-in-a-string.cpp) |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | ![](https://img.shields.io/badge/-Hard-red) | C++ | [`split-array-largest-sum.cpp`](./410-split-array-largest-sum/split-array-largest-sum.cpp) |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`find-all-duplicates-in-an-array.cpp`](./442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp) |
-| 443 | [String Compression](https://leetcode.com/problems/string-compression) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`string-compression.cpp`](./443-string-compression/string-compression.cpp) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`max-consecutive-ones.cpp`](./485-max-consecutive-ones/max-consecutive-ones.cpp) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`reverse-words-in-a-string-iii.cpp`](./557-reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.cpp) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`permutation-in-string.cpp`](./567-permutation-in-string/permutation-in-string.cpp) |
@@ -103,6 +103,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 16 Jul 2026, 22:50 UTC*
+*Last auto-generated: 16 Jul 2026, 22:53 UTC*
 
 </div>
