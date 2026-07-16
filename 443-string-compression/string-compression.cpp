@@ -1,7 +1,6 @@
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        char ch;
         int count=0;
         int index=0;
         for(int i=0;i<chars.size();i++){
@@ -23,8 +22,6 @@ public:
             }
             i--;
         }
-
-        // chars.resize(index);
         return index;
     }
 };
