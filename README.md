@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**41 problems solved** · 29 Easy · 11 Medium · 1 Hard
+**42 problems solved** · 29 Easy · 12 Medium · 1 Hard
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟥
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨
 
-**Languages used:** **41** C++
+**Languages used:** **41** C++ · **1** Unknown
 
 <br>
 
@@ -76,6 +76,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 1675 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`magnetic-force-between-two-balls.cpp`](./1675-magnetic-force-between-two-balls/magnetic-force-between-two-balls.cpp) |
 | 1791 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`richest-customer-wealth.cpp`](./1791-richest-customer-wealth/richest-customer-wealth.cpp) |
 | 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`check-if-array-is-sorted-and-rotated.cpp`](./1878-check-if-array-is-sorted-and-rotated/check-if-array-is-sorted-and-rotated.cpp) |
+| 2021 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
 | 2058 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`concatenation-of-array.cpp`](./2058-concatenation-of-array/concatenation-of-array.cpp) |
 | 2102 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-the-middle-index-in-array.cpp`](./2102-find-the-middle-index-in-array/find-the-middle-index-in-array.cpp) |
 | 2243 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`check-if-all-as-appears-before-all-bs.cpp`](./2243-check-if-all-as-appears-before-all-bs/check-if-all-as-appears-before-all-bs.cpp) |
@@ -99,6 +100,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 16 Jul 2026, 12:33 UTC*
+*Last auto-generated: 16 Jul 2026, 19:20 UTC*
 
 </div>
