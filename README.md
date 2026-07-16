@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**42 problems solved** · 29 Easy · 12 Medium · 1 Hard
+**43 problems solved** · 29 Easy · 13 Medium · 1 Hard
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **42** C++
+**Languages used:** **42** C++ · **1** Unknown
 
 <br>
 
@@ -66,6 +66,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`find-all-duplicates-in-an-array.cpp`](./442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`max-consecutive-ones.cpp`](./485-max-consecutive-ones/max-consecutive-ones.cpp) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`reverse-words-in-a-string-iii.cpp`](./557-reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.cpp) |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-pivot-index.cpp`](./724-find-pivot-index/find-pivot-index.cpp) |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`peak-index-in-a-mountain-array.cpp`](./882-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.cpp) |
 | 1031 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`add-to-array-form-of-integer.cpp`](./1031-add-to-array-form-of-integer/add-to-array-form-of-integer.cpp) |
@@ -100,6 +101,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 16 Jul 2026, 19:22 UTC*
+*Last auto-generated: 16 Jul 2026, 21:56 UTC*
 
 </div>
