@@ -3,6 +3,8 @@ public:
     bool isAnagram(string s, string t) {
         int count1[26]={0};
         int count2[26]={0};
+
+        if(s.size()!=t.size()) return false;
         for(char ch:s){
             count1[ch-'a']++;
         }
