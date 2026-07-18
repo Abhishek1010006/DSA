@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**45 problems solved** · 30 Easy · 14 Medium · 1 Hard
+**46 problems solved** · 31 Easy · 14 Medium · 1 Hard
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **45** C++
+**Languages used:** **45** C++ · **1** Unknown
 
 <br>
 
@@ -58,6 +58,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`factorial-trailing-zeroes.cpp`](./172-factorial-trailing-zeroes/factorial-trailing-zeroes.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`rotate-array.cpp`](./189-rotate-array/rotate-array.cpp) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`power-of-two.cpp`](./231-power-of-two/power-of-two.cpp) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | ![](https://img.shields.io/badge/-Easy-brightgreen) | Unknown | — |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`move-zeroes.cpp`](./283-move-zeroes/move-zeroes.cpp) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`reverse-string.cpp`](./344-reverse-string/reverse-string.cpp) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`intersection-of-two-arrays.cpp`](./349-intersection-of-two-arrays/intersection-of-two-arrays.cpp) |
@@ -103,6 +104,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 18 Jul 2026, 08:24 UTC*
+*Last auto-generated: 18 Jul 2026, 18:05 UTC*
 
 </div>
