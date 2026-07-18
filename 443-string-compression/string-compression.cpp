@@ -1,7 +1,6 @@
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        int count=0;
         int index=0;
         for(int i=0;i<chars.size();i++){
             char ch=chars[i];
