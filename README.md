@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**49 problems solved** · 32 Easy · 16 Medium · 1 Hard
+**50 problems solved** · 32 Easy · 17 Medium · 1 Hard
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **48** C++ · **1** Unknown
+**Languages used:** **49** C++ · **1** Unknown
 
 <br>
 
@@ -52,7 +52,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`spiral-matrix.cpp`](./54-spiral-matrix/spiral-matrix.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`plus-one.cpp`](./66-plus-one/plus-one.cpp) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`sqrtx.cpp`](./69-sqrtx/sqrtx.cpp) |
-| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`search-a-2d-matrix.cpp`](./74-search-a-2d-matrix/search-a-2d-matrix.cpp) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`sort-colors.cpp`](./75-sort-colors/sort-colors.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`merge-sorted-array.cpp`](./88-merge-sorted-array/merge-sorted-array.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`valid-palindrome.cpp`](./125-valid-palindrome/valid-palindrome.cpp) |
@@ -61,6 +61,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`factorial-trailing-zeroes.cpp`](./172-factorial-trailing-zeroes/factorial-trailing-zeroes.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`rotate-array.cpp`](./189-rotate-array/rotate-array.cpp) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`power-of-two.cpp`](./231-power-of-two/power-of-two.cpp) |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`valid-anagram.cpp`](./242-valid-anagram/valid-anagram.cpp) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`move-zeroes.cpp`](./283-move-zeroes/move-zeroes.cpp) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`reverse-string.cpp`](./344-reverse-string/reverse-string.cpp) |
@@ -107,6 +108,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 20 Jul 2026, 21:16 UTC*
+*Last auto-generated: 20 Jul 2026, 21:38 UTC*
 
 </div>
