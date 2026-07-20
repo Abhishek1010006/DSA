@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**48 problems solved** · 32 Easy · 15 Medium · 1 Hard
+**49 problems solved** · 32 Easy · 16 Medium · 1 Hard
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 
-**Languages used:** **47** C++ · **1** Unknown
+**Languages used:** **48** C++ · **1** Unknown
 
 <br>
 
@@ -49,9 +49,10 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-the-index-of-the-first-occurrence-in-a-string.cpp`](./28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`find-first-and-last-position-of-element-in-sorted-array.cpp`](./34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`powx-n.cpp`](./50-powx-n/powx-n.cpp) |
-| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`spiral-matrix.cpp`](./54-spiral-matrix/spiral-matrix.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`plus-one.cpp`](./66-plus-one/plus-one.cpp) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`sqrtx.cpp`](./69-sqrtx/sqrtx.cpp) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`sort-colors.cpp`](./75-sort-colors/sort-colors.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`merge-sorted-array.cpp`](./88-merge-sorted-array/merge-sorted-array.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`valid-palindrome.cpp`](./125-valid-palindrome/valid-palindrome.cpp) |
@@ -106,6 +107,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 20 Jul 2026, 20:49 UTC*
+*Last auto-generated: 20 Jul 2026, 21:16 UTC*
 
 </div>
