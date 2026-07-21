@@ -33,7 +33,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 
-**Languages used:** **50** C++ · **1** Unknown
+**Languages used:** **51** C++
 
 <br>
 
@@ -60,7 +60,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`reverse-words-in-a-string.cpp`](./151-reverse-words-in-a-string/reverse-words-in-a-string.cpp) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`factorial-trailing-zeroes.cpp`](./172-factorial-trailing-zeroes/factorial-trailing-zeroes.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`rotate-array.cpp`](./189-rotate-array/rotate-array.cpp) |
-| 204 | [Count Primes](https://leetcode.com/problems/count-primes) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`count-primes.cpp`](./204-count-primes/count-primes.cpp) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`power-of-two.cpp`](./231-power-of-two/power-of-two.cpp) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`search-a-2d-matrix-ii.cpp`](./240-search-a-2d-matrix-ii/search-a-2d-matrix-ii.cpp) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`valid-anagram.cpp`](./242-valid-anagram/valid-anagram.cpp) |
@@ -109,6 +109,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 21 Jul 2026, 12:51 UTC*
+*Last auto-generated: 21 Jul 2026, 13:02 UTC*
 
 </div>
