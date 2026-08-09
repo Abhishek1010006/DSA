@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**52 problems solved** · 32 Easy · 19 Medium · 1 Hard
+**53 problems solved** · 33 Easy · 19 Medium · 1 Hard
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 
-**Languages used:** **51** C++ · **1** Unknown
+**Languages used:** **52** C++ · **1** Unknown
 
 <br>
 
@@ -75,6 +75,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`reverse-words-in-a-string-iii.cpp`](./557-reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.cpp) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`permutation-in-string.cpp`](./567-permutation-in-string/permutation-in-string.cpp) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-pivot-index.cpp`](./724-find-pivot-index/find-pivot-index.cpp) |
+| 792 | [Binary Search](https://leetcode.com/problems/binary-search) | ![](https://img.shields.io/badge/-Easy-brightgreen) | Unknown | — |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`peak-index-in-a-mountain-array.cpp`](./882-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.cpp) |
 | 1031 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`add-to-array-form-of-integer.cpp`](./1031-add-to-array-form-of-integer/add-to-array-form-of-integer.cpp) |
 | 1056 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`capacity-to-ship-packages-within-d-days.cpp`](./1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.cpp) |
@@ -86,7 +87,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 1791 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`richest-customer-wealth.cpp`](./1791-richest-customer-wealth/richest-customer-wealth.cpp) |
 | 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`check-if-array-is-sorted-and-rotated.cpp`](./1878-check-if-array-is-sorted-and-rotated/check-if-array-is-sorted-and-rotated.cpp) |
 | 2021 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`remove-all-occurrences-of-a-substring.cpp`](./2021-remove-all-occurrences-of-a-substring/remove-all-occurrences-of-a-substring.cpp) |
-| 2050 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
+| 2050 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`count-good-numbers.cpp`](./2050-count-good-numbers/count-good-numbers.cpp) |
 | 2058 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`concatenation-of-array.cpp`](./2058-concatenation-of-array/concatenation-of-array.cpp) |
 | 2102 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-the-middle-index-in-array.cpp`](./2102-find-the-middle-index-in-array/find-the-middle-index-in-array.cpp) |
 | 2243 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`check-if-all-as-appears-before-all-bs.cpp`](./2243-check-if-all-as-appears-before-all-bs/check-if-all-as-appears-before-all-bs.cpp) |
@@ -110,6 +111,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 21 Jul 2026, 22:07 UTC*
+*Last auto-generated: 09 Aug 2026, 23:35 UTC*
 
 </div>
