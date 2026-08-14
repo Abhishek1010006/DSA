@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**54 problems solved** · 33 Easy · 20 Medium · 1 Hard
+**55 problems solved** · 33 Easy · 21 Medium · 1 Hard
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **54** C++
+**Languages used:** **54** C++ · **1** Unknown
 
 <br>
 
@@ -56,6 +56,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`sort-colors.cpp`](./75-sort-colors/sort-colors.cpp) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`subsets.cpp`](./78-subsets/subsets.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`merge-sorted-array.cpp`](./88-merge-sorted-array/merge-sorted-array.cpp) |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`valid-palindrome.cpp`](./125-valid-palindrome/valid-palindrome.cpp) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`single-number.cpp`](./136-single-number/single-number.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`reverse-words-in-a-string.cpp`](./151-reverse-words-in-a-string/reverse-words-in-a-string.cpp) |
@@ -112,6 +113,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 14 Aug 2026, 19:40 UTC*
+*Last auto-generated: 14 Aug 2026, 21:28 UTC*
 
 </div>
