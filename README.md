@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**53 problems solved** · 33 Easy · 19 Medium · 1 Hard
+**54 problems solved** · 33 Easy · 20 Medium · 1 Hard
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **52** C++ · **1** Unknown
+**Languages used:** **54** C++
 
 <br>
 
@@ -54,6 +54,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`sqrtx.cpp`](./69-sqrtx/sqrtx.cpp) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`search-a-2d-matrix.cpp`](./74-search-a-2d-matrix/search-a-2d-matrix.cpp) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`sort-colors.cpp`](./75-sort-colors/sort-colors.cpp) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`subsets.cpp`](./78-subsets/subsets.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`merge-sorted-array.cpp`](./88-merge-sorted-array/merge-sorted-array.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`valid-palindrome.cpp`](./125-valid-palindrome/valid-palindrome.cpp) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`single-number.cpp`](./136-single-number/single-number.cpp) |
@@ -75,7 +76,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`reverse-words-in-a-string-iii.cpp`](./557-reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.cpp) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`permutation-in-string.cpp`](./567-permutation-in-string/permutation-in-string.cpp) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-pivot-index.cpp`](./724-find-pivot-index/find-pivot-index.cpp) |
-| 792 | [Binary Search](https://leetcode.com/problems/binary-search) | ![](https://img.shields.io/badge/-Easy-brightgreen) | Unknown | — |
+| 792 | [Binary Search](https://leetcode.com/problems/binary-search) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`binary-search.cpp`](./792-binary-search/binary-search.cpp) |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`peak-index-in-a-mountain-array.cpp`](./882-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.cpp) |
 | 1031 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`add-to-array-form-of-integer.cpp`](./1031-add-to-array-form-of-integer/add-to-array-form-of-integer.cpp) |
 | 1056 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`capacity-to-ship-packages-within-d-days.cpp`](./1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.cpp) |
@@ -111,6 +112,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 09 Aug 2026, 23:35 UTC*
+*Last auto-generated: 14 Aug 2026, 19:40 UTC*
 
 </div>
