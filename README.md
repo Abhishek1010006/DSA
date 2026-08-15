@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**55 problems solved** · 33 Easy · 21 Medium · 1 Hard
+**56 problems solved** · 33 Easy · 22 Medium · 1 Hard
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 
-**Languages used:** **54** C++ · **1** Unknown
+**Languages used:** **55** C++ · **1** Unknown
 
 <br>
 
@@ -48,6 +48,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`remove-element.cpp`](./27-remove-element/remove-element.cpp) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-the-index-of-the-first-occurrence-in-a-string.cpp`](./28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`find-first-and-last-position-of-element-in-sorted-array.cpp`](./34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`powx-n.cpp`](./50-powx-n/powx-n.cpp) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`spiral-matrix.cpp`](./54-spiral-matrix/spiral-matrix.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`plus-one.cpp`](./66-plus-one/plus-one.cpp) |
@@ -56,7 +57,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`sort-colors.cpp`](./75-sort-colors/sort-colors.cpp) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`subsets.cpp`](./78-subsets/subsets.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`merge-sorted-array.cpp`](./88-merge-sorted-array/merge-sorted-array.cpp) |
-| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`subsets-ii.cpp`](./90-subsets-ii/subsets-ii.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`valid-palindrome.cpp`](./125-valid-palindrome/valid-palindrome.cpp) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`single-number.cpp`](./136-single-number/single-number.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`reverse-words-in-a-string.cpp`](./151-reverse-words-in-a-string/reverse-words-in-a-string.cpp) |
@@ -113,6 +114,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 14 Aug 2026, 21:28 UTC*
+*Last auto-generated: 15 Aug 2026, 19:43 UTC*
 
 </div>
