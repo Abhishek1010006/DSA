@@ -29,11 +29,11 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 
 ## 📈 Progress
 
-**57 problems solved** · 33 Easy · 23 Medium · 1 Hard
+**58 problems solved** · 33 Easy · 24 Medium · 1 Hard
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
 
-**Languages used:** **57** C++
+**Languages used:** **57** C++ · **1** Unknown
 
 <br>
 
@@ -45,6 +45,7 @@ Every push auto-rebuilds the stats and table below — nothing here is typed in 
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`reverse-integer.cpp`](./7-reverse-integer/reverse-integer.cpp) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`palindrome-number.cpp`](./9-palindrome-number/palindrome-number.cpp) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | ![](https://img.shields.io/badge/-Medium-orange) | C++ | [`3sum.cpp`](./15-3sum/3sum.cpp) |
+| 18 | [4Sum](https://leetcode.com/problems/4sum) | ![](https://img.shields.io/badge/-Medium-orange) | Unknown | — |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`remove-duplicates-from-sorted-array.cpp`](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`remove-element.cpp`](./27-remove-element/remove-element.cpp) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | ![](https://img.shields.io/badge/-Easy-brightgreen) | C++ | [`find-the-index-of-the-first-occurrence-in-a-string.cpp`](./28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.cpp) |
@@ -115,6 +116,6 @@ To trigger a manual refresh: `python scripts/generate_readme.py` from the repo r
 
 <div align="center">
 
-*Last auto-generated: 16 Aug 2026, 11:43 UTC*
+*Last auto-generated: 16 Aug 2026, 12:00 UTC*
 
 </div>
